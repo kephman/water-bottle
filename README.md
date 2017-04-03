@@ -1,2 +1,3 @@
 # water-bottle
-test repository
+
+Learning about GitHub.
